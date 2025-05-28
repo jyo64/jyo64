@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jyothish
-- 👀 I’m interested in Python, Machine Learning and Data Science
+- 👀 I’m interested in Python, LLMs and Data Science
 - Looking forward to learn 📚 and contribute ✅
 
 <!---
